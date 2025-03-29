@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Doto:wght@100..900&display=swap');
+
+.header {
+    font-family: "Doto", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-variation-settings:
+        "ROND" 0;
+
+}
+
+p {
+    font-size: 1.5em;
+}
+
+.header h1 {
+    color: #fc8686;
+    text-shadow: 
+      0 0 20px rgba(252, 134, 134, 0.9),
+      0 0 30px rgba(252, 134, 134, 0.4);
+    /* Add these properties for better clarity */
+    font-weight: 600;
+    letter-spacing: 1px;
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }

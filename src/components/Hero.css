@@ -1,0 +1,7 @@
+.ascii-art{
+    line-height: 1; /* Minimal line height */
+    margin: 0; /* Remove default margins */
+    padding: 0; /* Remove default padding */
+    font-family: monospace; /* Ensure monospace font */
+    font-size: 12px; 
+}
